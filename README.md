@@ -20,7 +20,7 @@ I'm a Full Stack student from Portugal, currently in France.
 
 ---
 
-### :hammer_and_wrench: Languages :
+### :hammer_and_wrench: Languages, Frameworks and Libraries :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@ I'm a Full Stack student from Portugal, currently in France.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools I'm learning next :
+### :hammer_and_wrench: Languages, Frameworks and Tools I'm learning next :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg" title="Symfony" alt="Synfony" width="40" height="40"/>&nbsp;
