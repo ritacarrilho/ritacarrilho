@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/RN8FdaB6T1bkkI5n4I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I">via GIPHY</a></p>
-  </div>
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"></img><p>
+ </div>
+
 
 ### :woman_technologist: About Me :
 I'm a Full Stack student from Portugal, currently in France.
@@ -14,6 +15,7 @@ I'm a Full Stack student from Portugal, currently in France.
 - 😄 My pronouns are she/her
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rita-carrilho)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -32,6 +34,7 @@ I'm a Full Stack student from Portugal, currently in France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ### :hammer_and_wrench: Languages and Tools I'm learning next:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -39,6 +42,7 @@ I'm a Full Stack student from Portugal, currently in France.
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritacarrilho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
