@@ -16,7 +16,7 @@ I'm a Full Stack student from Portugal, currently in France.
 
 - 😄 My pronouns are she/her
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rita-carrilho)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rita-carrilho-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rita-carrilho)
 
 ---
 
