@@ -7,12 +7,12 @@
 ### :woman_technologist: About Me :
 I'm a Full Stack student from Portugal, currently in France.
 
-- :telescope: I’m studying at L'IDEM Creative Arts School (France) to becoma a Full-stack developer.
-- 
+- :telescope: I’m studying at L'IDEM Creative Arts School (France) to become a Full-stack developer.
+
 - ⚡ In my free time, I make films and repair bicycles.
-- 
+
 - 😄 My pronouns are she/her
-- 
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rita-carrilho)
 
 ### :hammer_and_wrench: Languages and Tools :
