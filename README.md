@@ -8,9 +8,9 @@
 </h1> -->
 
 ### :woman_technologist: About Me :
-I'm a Full Stack student from Portugal, currently in France.
+I'm a Full Stack student from Portugal, currently living in France.
 
-- :telescope: I’m studying at L'IDEM Creative Arts School (France) to become a Full-stack developer.
+- :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full-stack developer.
 
 - ⚡ In my free time, I make films and repair bicycles.
 
