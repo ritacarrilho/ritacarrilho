@@ -47,8 +47,8 @@ I'm a Full Stack student from Portugal, currently living in France.
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  	![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=php-storm)
 
- ## 🛠 Languages, Frameworks and Tools I'm learning next :
- - :hammer_and_wrench:
+ ### 🛠 Languages, Frameworks and Tools I'm learning next :
+ - 💻
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
  	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
@@ -96,6 +96,5 @@ I'm a Full Stack student from Portugal, currently living in France.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita%Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
 [![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
