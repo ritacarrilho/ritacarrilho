@@ -16,7 +16,7 @@ I'm a Full Stack student from Portugal, currently living in France.
 
 - 😄 My pronouns are she/her
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rita-carrilho)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rita-carrilho) -->
 
 ---
 
@@ -46,7 +46,7 @@ I'm a Full Stack student from Portugal, currently living in France.
  	![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=php-storm)
 
  ## 🛠 Languages, Frameworks and Tools I'm learning next :
- - :hammer_and_wrench
+ - :hammer_and_wrench:
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
  	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
