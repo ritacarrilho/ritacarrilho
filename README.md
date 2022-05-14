@@ -96,5 +96,5 @@ I'm a Full Stack student from Portugal, currently living in France.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita%Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
 [![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
