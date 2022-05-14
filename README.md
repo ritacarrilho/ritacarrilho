@@ -49,9 +49,9 @@ I'm a Full Stack student from Portugal, currently living in France.
 
  ### 🛠 Languages, Frameworks and Tools I'm learning next :
  - 💻
+ 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
- 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
   
 ---
