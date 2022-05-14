@@ -12,7 +12,7 @@ I'm a Full Stack student from Portugal, currently living in France.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full-stack developer.
 
-- 🤔 Exploring new technologies and learning more about Software Architecture.
+- 🤔 I'm xploring new technologies and learning more about Software Architecture.
 
 - 🌱 In my free time I make films (for the theaters) and repair bicycles.
 
@@ -96,5 +96,5 @@ I'm a Full Stack student from Portugal, currently living in France.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤝🏻 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita%Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
 [![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
