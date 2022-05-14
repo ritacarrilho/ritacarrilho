@@ -20,7 +20,40 @@ I'm a Full Stack student from Portugal, currently living in France.
 
 ---
 
-### :hammer_and_wrench: Languages, Frameworks and Libraries :
+### 🛠 Tech Stack
+- 💻 
+	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  
+- 🌐
+	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+- 🛢
+	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+ 	
+- ⚙️
+	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ 	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+ 	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+ 	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+ 	
+- 🔧
+ 	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ 	![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=php-storm)
+
+ ## 🛠 Languages, Frameworks and Tools I'm learning next :
+ 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+ 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+ 	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+  
+---
+
+<!-- ### :hammer_and_wrench: Languages, Frameworks and Libraries :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
@@ -52,10 +85,14 @@ I'm a Full Stack student from Portugal, currently living in France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 
----
+--- -->
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritacarrilho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🤝🏻 Connect with me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita%Carrilho-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
+
+[![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
