@@ -98,5 +98,5 @@ I'm a Full Stack student from Portugal, currently living in France.
 ---
 
 ### 🤝🏻 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-yellow?style=flat-square&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/rita-carrilho)
 [![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
