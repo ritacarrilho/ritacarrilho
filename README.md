@@ -12,7 +12,7 @@ I'm a Full Stack student from Portugal, currently living in France.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full-stack developer.
 
-- 🤔 I'm xploring new technologies and learning more about Software Architecture.
+- 🤔 I'm exploring new technologies and learning more about Software Architecture.
 
 - 🌱 In my free time I make films (for the theaters) and repair bicycles.
 
