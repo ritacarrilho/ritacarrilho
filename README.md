@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 I'm a Full Stack student from Portugal, currently living in France.
 
-- :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full-stack developer.
+- :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full Stack developer.
 
 - 🤔 I'm exploring new technologies and learning more about Software Architecture.
 
