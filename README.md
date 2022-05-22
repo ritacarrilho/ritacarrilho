@@ -28,13 +28,18 @@ I'm a Full Stack student from Portugal, currently living in France.
 - 💻 
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+ 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
   
 - 🌐
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  	![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  	![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  	![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
 
 - 🛢
 	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -48,13 +53,6 @@ I'm a Full Stack student from Portugal, currently living in France.
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  	![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=php-storm)
-
- ### 🛠 Languages, Frameworks and Tools I'm learning next :
- - 💻
- 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
- 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
- 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
- 	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
   
 ---
 
