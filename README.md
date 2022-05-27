@@ -8,11 +8,11 @@
 </h1> -->
 
 ### :woman_technologist: About Me :
-I'm a Full Stack student from Portugal, currently living in France.
+I'm a portuguese Full Stack student, currently living in France.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full Stack developer.
 
-- 🤔 I'm exploring new technologies and learning more about Software Architecture.
+- 🤔 I'm exploring new technologies and learning more about Web Development.
 
 - 🌱 In my free time I make films (for the theaters) and repair bicycles.
 
