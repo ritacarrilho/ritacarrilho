@@ -52,7 +52,6 @@ I'm a portuguese Full Stack student, currently living in France.
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 	![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=php-storm)
   
 ---
 
