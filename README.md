@@ -12,9 +12,9 @@ I'm a portuguese Full Stack student, currently living in France.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full Stack developer.
 
-- 🤔 I'm exploring new technologies and learning more about Web Development.
+- 🤔 I'm exploring new technologies and learning more about Web/Software Development.
 
-- 🌱 In my free time I make films (for the theaters) and repair bicycles.
+- 🌱 In my free time I make films and repair bicycles.
 
 - 😄 I am trilingual, speaking Portuguese, English and French.
 
