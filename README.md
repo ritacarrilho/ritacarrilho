@@ -14,7 +14,7 @@ I'm a portuguese Full Stack student, currently living in France.
 
 - 🤔 I'm exploring new technologies and learning more about Web/Software Development.
 
-- 🌱 In my free time I make films and repair bicycles.
+- 🌱 In my free time I make films, repair bicycles and make some DIYs.
 
 - 😄 I am trilingual, speaking Portuguese, English and French.
 
