@@ -49,6 +49,7 @@ I'm a portuguese Full Stack student, currently living in France.
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
  	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+	![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
