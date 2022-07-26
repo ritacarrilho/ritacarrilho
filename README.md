@@ -54,6 +54,7 @@ I'm a portuguese Full Stack student, currently living in France.
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+	![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   
 ---
 
