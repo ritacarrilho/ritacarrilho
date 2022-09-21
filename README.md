@@ -31,8 +31,7 @@ I'm a portuguese Full Stack student, currently living in France.
   	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
- 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-
+ 
   
 - 🌐
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
