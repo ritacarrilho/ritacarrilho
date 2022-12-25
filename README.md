@@ -31,6 +31,7 @@ I'm a portuguese Full Stack developer, currently living in France.
   	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  
   
 - 🌐
