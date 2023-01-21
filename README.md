@@ -26,13 +26,14 @@ I'm a portuguese Full Stack developer, currently living in France.
 
 ### 🛠 Tech Stack
 - 💻 
-	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
- 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
- 
+	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+ 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+	![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+  	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
+
   
 - 🌐
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -47,14 +48,13 @@ I'm a portuguese Full Stack developer, currently living in France.
 - ⚙️
 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
- 	![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-	![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+ 	<!-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
+ 	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) 
+	![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) -->
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-	![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   
 ---
 
