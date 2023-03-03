@@ -8,7 +8,7 @@
 </h1> -->
 
 ### :woman_technologist: About Me :
-I'm a portuguese Full Stack developer, currently living in France.
+I'm a Full Stack developer, currently studying for a Bachelor's degree.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full Stack developer.
 
