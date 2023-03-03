@@ -8,7 +8,7 @@
 </h1> -->
 
 ### :woman_technologist: About Me :
-I'm a Full Stack developer, currently studying for a Bachelor's degree.
+I'm a Full Stack developer, currently taking a Bachelor's degree.
 
 - :telescope: I’m studying at L'IDEM Creative Arts School (Le Soler, France) to become a Full Stack developer.
 
