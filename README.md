@@ -50,6 +50,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
+	![AMP](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
  	<!-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
  	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) 
 	![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) -->
