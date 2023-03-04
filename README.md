@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 I’m finishing my  Bachelor's degree to become a Full Stack Developer.
 
-- 🤔 I'm exploring new technologies and learning more about Web/Software Development.
+- 🤔 I'm exploring new technologies and learning more about Web/Software Development and Artificial Intelligence.
 
 - 🌱 In my free time I make films, repair bicycles and make some DIYs.
 
