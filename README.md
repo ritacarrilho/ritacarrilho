@@ -29,7 +29,10 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-	![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
+	![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
+	![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 	![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
@@ -45,15 +48,15 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 
 - 🛢
 	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+	![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
  	
 - ⚙️
 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+	![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)
+	![AMP](https://img.shields.io/badge/-AMP-333333?style=flat&logo=amp)
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
-	![AMP](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
- 	<!-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
- 	![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) 
-	![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) -->
+	![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
