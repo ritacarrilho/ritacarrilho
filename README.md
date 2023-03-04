@@ -48,7 +48,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
   	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
 
 - 🛢
-	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=ffffff)
 	![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
  	
 - ⚙️
