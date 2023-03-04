@@ -33,6 +33,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 	![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 	![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
