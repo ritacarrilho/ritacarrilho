@@ -58,7 +58,7 @@ I’m finishing my  Bachelor's degree to become a Full Stack Developer.
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-	![Postman](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=postman&logoColor=ff7f00)
+	![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=ff7f00)
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
   
 ---
