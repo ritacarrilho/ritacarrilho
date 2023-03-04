@@ -60,6 +60,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+	![Postman](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=postman&logoColor=ff7f00)
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
   
 ---
