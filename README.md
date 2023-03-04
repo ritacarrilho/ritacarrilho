@@ -29,6 +29,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+	![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 	![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
