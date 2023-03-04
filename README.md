@@ -30,7 +30,7 @@ I'm a Full Stack developer, currently taking a Bachelor's degree.
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
-	![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+	![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=659AD2)
 	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
