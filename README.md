@@ -53,7 +53,6 @@ I’m finishing my  Bachelor's degree to become a Full Stack Developer.
 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 	![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)
-	![AMP](https://img.shields.io/badge/-AMP-333333?style=flat&logo=amp)
 	![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
  	
 - 🔧
