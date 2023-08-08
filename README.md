@@ -32,9 +32,9 @@ I’m finishing my  Bachelor's degree to become a Full Stack Developer.
 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-	![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-	![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+	<!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) -->
   	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
 
   
