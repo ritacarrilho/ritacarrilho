@@ -69,7 +69,7 @@ I’m a Computer Science Master's degree student.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritacarrilho&repo=warranty_app)](https://github.com/ritacarrilho/warranty_app)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritacarrilho&repo=warranty_app)](https://github.com/ritacarrilho/warranty_app) -->
 
 ### 🤝🏻 Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
