@@ -8,11 +8,11 @@
 </h1> -->
 
 ### :woman_technologist: About Me :
-I’m finishing my  Bachelor's degree to become a Full Stack Developer.
+I’m a Computer Science Master's degree student.
 
-- 🤔 I'm exploring new technologies and learning more about Web/Software Development and Artificial Intelligence.
+- 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as Artificial Intelligence.
 
-- 🌱 In my free time I make films, repair bicycles and make some DIYs.
+- 🌱 In my free time I make films, repair bicycles and upcycle.
 
 - 😄 I am trilingual, speaking Portuguese, English and French.
 
