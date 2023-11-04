@@ -29,14 +29,14 @@ I’m a Computer Science Master's degree student.
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
 	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
+	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
 	<!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) -->
-  	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
 
+- 📱
+	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   
 - 🌐
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -50,7 +50,8 @@ I’m a Computer Science Master's degree student.
 	![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
  	
 - ⚙️
-	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ 	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
+ 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 	![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)
 	![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
