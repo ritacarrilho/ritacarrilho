@@ -30,10 +30,10 @@ I’m a Computer Science Master's degree student.
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
 	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
 	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
 	<!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) -->
   	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
 
@@ -42,8 +42,8 @@ I’m a Computer Science Master's degree student.
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   	![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   	![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  	![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  	![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC)
+  	<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) -->
+  	<!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC) -->
 
 - 🛢
 	![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=ffffff)
