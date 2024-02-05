@@ -75,4 +75,4 @@ I’m a Computer Science Master's degree student.
 
 ### 🤝🏻 Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rita-yellow?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rita-carrilho)
-[![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/Email-ritaclameira@gmail.com-yellow?style=flat-square&logo=gmail)](mailto:ritaclameira@gmail.com) -->
