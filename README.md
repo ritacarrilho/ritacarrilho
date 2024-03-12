@@ -28,15 +28,16 @@ I’m a Computer Science Master's degree student.
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
-	![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
  	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  	<!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) -->
 	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
 	<!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) -->
 
 - 📱
 	![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+	![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
   
 - 🌐
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
