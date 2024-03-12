@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 I’m a Computer Science Master's degree student.
 
-- 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as Artificial Intelligence and Datascience.
+- 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as Cloud and Artificial Intelligence.
 
 - 🌱 In my free time I make films, repair bicycles and upcycle.
 
