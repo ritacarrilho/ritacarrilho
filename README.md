@@ -26,11 +26,12 @@ I’m a Computer Science Master's degree student.
 - 💻 
 	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
+	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  	![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
- 	![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ 	<!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
   	<!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) -->
 	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
 	<!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue) -->
@@ -51,17 +52,17 @@ I’m a Computer Science Master's degree student.
 	![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
  	
 - ⚙️
- 	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
  	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-	![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)
+  	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
 	![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+	<!-- ![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)  -->
  	
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 	![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8)
 	![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=ff7f00)
 	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
+ 	<!-- ![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8) -->
   
 ---
 
