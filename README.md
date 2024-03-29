@@ -67,10 +67,11 @@ I’m a Computer Science Master's degree student.
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritacarrilho&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritacarrilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ritacarrilho&repo=warranty_app)](https://github.com/ritacarrilho/warranty_app) -->
