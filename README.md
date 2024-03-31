@@ -54,15 +54,16 @@ I’m a Computer Science Master's degree student.
 - ⚙️
  	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  	![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+        ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=ff7f00)
   	![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=0C9ED9)
-	![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-	<!-- ![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)  -->
+        <!-- ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+	![GCP](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=googleCloud)  -->
  	
-- 🔧
+<!-- - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 	![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=ff7f00)
-	<!-- ![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
- 	 ![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8) -->
+	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
+ 	![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8) -->
   
 ---
 
