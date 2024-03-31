@@ -12,9 +12,9 @@ I’m a Computer Science Master's degree student.
 
 - 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as AI and IoT.
 
-- 🌱 In my free time I make films, repair bicycles and upcycle.
+<!-- - 🌱 In my free time I make films, repair bicycles and upcycle. -->
 
-- 😄 I am trilingual, speaking Portuguese, English and French.
+- 😄 I speak Portuguese, English and French.
 
 - 🌐 https://ritacarrilho.github.io/rita-carrilho
 
