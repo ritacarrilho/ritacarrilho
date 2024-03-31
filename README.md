@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 I’m a Computer Science Master's degree student.
 
-- 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as Cloud and Artificial Intelligence.
+- 🤔 I'm exploring new technologies and learning more about Software Design and Development as well as AI and IoT.
 
 - 🌱 In my free time I make films, repair bicycles and upcycle.
 
@@ -61,8 +61,8 @@ I’m a Computer Science Master's degree student.
 - 🔧
  	![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 	![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=ff7f00)
-	![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
- 	<!-- ![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8) -->
+	<!-- ![Workbench](https://img.shields.io/badge/-Workbench-333333?style=flat&logo=workbench)
+ 	 ![Visual Studio](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visual-studio&logoColor=7d32a8) -->
   
 ---
 
