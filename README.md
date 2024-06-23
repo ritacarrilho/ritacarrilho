@@ -28,9 +28,9 @@ I’m a Computer Science Master's degree student.
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  	![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   	![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+  	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
  	<!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
   	<!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) -->
 	<!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) -->
