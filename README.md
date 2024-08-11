@@ -28,8 +28,7 @@ I’m a Computer Science Master's degree student.
 	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 	![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9B4993)
 	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  	![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-	![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+        <!-- ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony) -->
   	<!-- ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) -->
  	<!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
   	<!-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) -->
@@ -44,6 +43,7 @@ I’m a Computer Science Master's degree student.
 	![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   	![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   	![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+    	![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)	
   	<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) -->
   	<!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress&logoColor=007ACC) -->
 
